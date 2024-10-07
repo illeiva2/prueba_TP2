@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/                       # Visual Studio folder for user-specific settings
+*.suo                      # Solution User Options file
+*.user                     # User-specific settings
+*.sln.ide                  # Solution IDE settings
+*.sln.doc                  # Documentation
+*.userprefs                # User preferences
+
+# Build results
+[Bb]in/                    # Output folder for binaries
+[Oo]bj/                    # Output folder for intermediate files
+
+# Visual Studio Code
+.vscode/                   # Visual Studio Code settings
+
+# Rider
+.idea/                     # JetBrains Rider settings
+
+# NUGET
+*.nupkg                    # NuGet packages
+*.snupkg                   # NuGet symbols
+packages/                  # NuGet packages folder
+
+# Test results
+TestResults/               # Test results folder
+
+# Logs
+*.log                      # Log files
+
+# Temporary files
+*.tmp                      # Temporary files
+*.temp                     # Temporary files
+
+# Misc
+*.dll                      # Dynamic link libraries
+*.exe                      # Executables
+*.pdb                      # Program Database files
+*.cache                    # Cache files
+*.mdb                      # Access database files
+
+# Visual Studio Database files
+*.mdf                      # SQL Server Database files
+*.ldf                      # SQL Server Log files
+
+# DotNet CLI
+project.lock.json         # Project lock files for .NET Core
+project.assets.json       # Project assets file for .NET Core

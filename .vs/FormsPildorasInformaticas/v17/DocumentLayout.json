@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|c:\\users\\romin\\source\\repos\\formspildorasinformaticas\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|c:\\users\\romin\\source\\repos\\formspildorasinformaticas\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|c:\\users\\romin\\source\\repos\\formspildorasinformaticas\\inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|c:\\users\\romin\\source\\repos\\formspildorasinformaticas\\inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|c:\\users\\romin\\source\\repos\\formspildorasinformaticas\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|c:\\users\\romin\\source\\repos\\formspildorasinformaticas\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InscripcionSocio.cs",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\InscripcionSocio.cs",
+              "RelativeDocumentMoniker": "InscripcionSocio.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\InscripcionSocio.cs",
+              "RelativeToolTip": "InscripcionSocio.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAArwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:46:25.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InscripcionSocio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\InscripcionSocio.cs",
+              "RelativeDocumentMoniker": "InscripcionSocio.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\InscripcionSocio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InscripcionSocio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:46:18.105Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T18:32:22.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Conexion.cs",
+              "RelativeDocumentMoniker": "Conexion.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Conexion.cs",
+              "RelativeToolTip": "Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:00:20.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:59:19.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:58:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentanaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\VentanaPrincipal.cs",
+              "RelativeToolTip": "VentanaPrincipal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T19:24:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T19:13:50.747Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
