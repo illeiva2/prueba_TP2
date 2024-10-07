@@ -14,6 +14,7 @@ namespace FormsPildorasInformaticas
     public partial class InscripcionSocio : Form
     {
         private Conexion mConexion;
+
         public InscripcionSocio(Conexion conexion)
         {
             InitializeComponent();
@@ -33,73 +34,62 @@ namespace FormsPildorasInformaticas
             string telefono = txtTelS.Text;
             string email = txtEmailS.Text;
 
-            // verificamos que los campos requeridos no esten vacios
-
-            if (string.IsNullOrEmpty(nombre) || string.IsNullOrEmpty(apellido) || string.IsNullOrEmpty(documento) || string.IsNullOrEmpty(direccion) || string.IsNullOrEmpty(telefono) || string.IsNullOrEmpty(email))
+            if (string.IsNullOrEmpty(nombre) || string.IsNullOrEmpty(apellido) || string.IsNullOrEmpty(documento) ||
+                string.IsNullOrEmpty(direccion) || string.IsNullOrEmpty(telefono) || string.IsNullOrEmpty(email))
             {
-                MessageBox.Show("Por favor complete los campos obligatorios");
+                MessageBox.Show("Por favor, complete los campos obligatorios");
                 return;
             }
 
+            MySqlConnection connection = null; // Inicializamos la conexión
+
             try
             {
-                if (mConexion.GetConexion().State != System.Data.ConnectionState.Open)
+                // Obtener la conexión singleton
+                connection = Conexion.GetInstance().GetConexion();
+
+                using (MySqlCommand cmdNuevoCliente = new MySqlCommand("NuevoCliente", connection))
                 {
-                    mConexion.GetConexion().Open();
-                }
+                    cmdNuevoCliente.CommandType = CommandType.StoredProcedure;
 
-                // Comprobacion de existencia de socio usando el DNI
-                string queryCheck = "SELECT COUNT(*) FROM SOCIO WHERE DNI = @documento";
-                MySqlCommand cmdCheck = new MySqlCommand(queryCheck, mConexion.GetConexion());
-                cmdCheck.Parameters.AddWithValue("@documento", documento);
+                    cmdNuevoCliente.Parameters.AddWithValue("@Nom", nombre);
+                    cmdNuevoCliente.Parameters.AddWithValue("@Ape", apellido);
+                    cmdNuevoCliente.Parameters.AddWithValue("@Doc", documento);
+                    cmdNuevoCliente.Parameters.AddWithValue("@Email", email);
+                    cmdNuevoCliente.Parameters.AddWithValue("@Telefono", telefono);
 
-                int contadorDni = Convert.ToInt32(cmdCheck.ExecuteScalar());
+                    MySqlParameter rtaParameter = new MySqlParameter("@rta", MySqlDbType.Int32)
+                    {
+                        Direction = ParameterDirection.Output
+                    };
+                    cmdNuevoCliente.Parameters.Add(rtaParameter);
 
-                if (contadorDni > 0)
-                {
-                    MessageBox.Show("Ya existe un socio con este DNI");
-                    return;
-                }
+                    cmdNuevoCliente.ExecuteNonQuery();
 
+                    int resultado = Convert.ToInt32(rtaParameter.Value);
 
-                // Consulta SQL con parametros para insertar los datos en la tabla Socio
-                string query = "INSERT INTO socio (Nombre, Apellido, DNI, Direccion, Telefono, Email)" +
-                    "VALUES (@nombre, @apellido, @documento,@direccion, @telefono, @email)";
-                MySqlCommand cmd = new MySqlCommand(query, mConexion.GetConexion());
-
-                //Asignamos valores a los parametros
-                cmd.Parameters.AddWithValue("@nombre", nombre);
-                cmd.Parameters.AddWithValue("@apellido", apellido);
-                cmd.Parameters.AddWithValue("@documento", documento);
-                cmd.Parameters.AddWithValue("@direccion", direccion);
-                cmd.Parameters.AddWithValue("@telefono", telefono);
-                cmd.Parameters.AddWithValue("@email", email);
-
-                // Ejecutamos la consulta
-                int filasAfectadas = cmd.ExecuteNonQuery();
-
-                if (filasAfectadas > 0)
-                {
-                    MessageBox.Show("El socio se ha registrado correctamente.");
-                }
-                else
-                {
-                    MessageBox.Show("Error al registrar socio");
+                    if (resultado == 1)
+                    {
+                        MessageBox.Show("El cliente se ha registrado correctamente.");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Ya existe un cliente con este DNI");
+                    }
                 }
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Error al guardar los datos" + ex.Message);
+                MessageBox.Show("Error al guardar los datos: " + ex.Message);
             }
-
             finally
             {
-                if (mConexion.GetConexion().State == System.Data.ConnectionState.Open)
+                // Aseguramos el cierre de la conexión
+                if (connection != null && connection.State == System.Data.ConnectionState.Open)
                 {
-                    mConexion.GetConexion().Close();
+                    connection.Close();
                 }
             }
-
         }
 
         private void btnLimpiar_Click_1(object sender, EventArgs e)
@@ -110,7 +100,6 @@ namespace FormsPildorasInformaticas
         private void LimpiarFormulario()
         {
             // Recorremos todos los controles del formulario
-
             foreach (Control control in this.Controls)
             {
                 // si el control es un textbox lo limpiamos

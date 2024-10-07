@@ -8,37 +8,40 @@ using System.Threading.Tasks;
 namespace FormsPildorasInformaticas
 {
     public class Conexion
-
     {
-        // declaración de las variables que necesitamos para la conexion con la base de datos
-        // pero creo que deberia ser con un constructor diferente para que cada uno pueda acceder en su compu
-        private MySqlConnection? conexion;
-        private string servidor = "localhost";
-        private string puerto = "3306";
-        private string database = "ClubDeportivo";
-        private string usuario = "root";
-        private string password = "rominagargano";
-        private string cadenaConexion;
+        private static Conexion instance;
+        private MySqlConnection connection;
 
-        public Conexion()
+        private Conexion()
         {
-            cadenaConexion = "Database=" + database +
-                "; Datasource=" + servidor +
-                "; port=" + puerto +
-                "; User=" + usuario +
-                "; Password=" + password;
+            string connectionString = "server=localhost;database=clubdeportivo;uid=root;pwd=;";
+            connection = new MySqlConnection(connectionString);
         }
-        public MySqlConnection GetConexion()
-        { 
-            if (conexion == null)
-            {
-                conexion = new MySqlConnection(cadenaConexion);
-                conexion.Open();
-                
-            }
-            return conexion;
 
-            
+        public static Conexion GetInstance()
+        {
+            if (instance == null)
+            {
+                instance = new Conexion();
+            }
+            return instance;
+        }
+
+        public MySqlConnection GetConexion()
+        {
+            if (connection.State != System.Data.ConnectionState.Open)
+            {
+                connection.Open(); // Abrir la conexión solo si no está abierta
+            }
+            return connection;
+        }
+
+        public void CloseConnection()
+        {
+            if (connection.State == System.Data.ConnectionState.Open)
+            {
+                connection.Close(); // Cerrar la conexión solo si está abierta
+            }
         }
     }
 }
