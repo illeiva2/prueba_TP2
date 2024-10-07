@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormsPildorasInformaticas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f2c89a0b582ea17ad71397fedfd2cbfcfdcb210")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c08baba190ae91b4a40147d9ce7c293c7b1a2c17")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormsPildorasInformaticas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormsPildorasInformaticas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
