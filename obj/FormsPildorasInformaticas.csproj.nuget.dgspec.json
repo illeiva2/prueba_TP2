@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\FormsPildorasInformaticas.csproj": {}
+    "C:\\Users\\Ignacio Toledo\\source\\repos\\DSOO_TP2_Com1A_Grupo2\\FormsPildorasInformaticas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\FormsPildorasInformaticas.csproj": {
+    "C:\\Users\\Ignacio Toledo\\source\\repos\\DSOO_TP2_Com1A_Grupo2\\FormsPildorasInformaticas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\FormsPildorasInformaticas.csproj",
+        "projectUniqueName": "C:\\Users\\Ignacio Toledo\\source\\repos\\DSOO_TP2_Com1A_Grupo2\\FormsPildorasInformaticas.csproj",
         "projectName": "FormsPildorasInformaticas",
-        "projectPath": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\FormsPildorasInformaticas.csproj",
-        "packagesPath": "C:\\Users\\romin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romin\\source\\repos\\FormsPildorasInformaticas\\obj\\",
+        "projectPath": "C:\\Users\\Ignacio Toledo\\source\\repos\\DSOO_TP2_Com1A_Grupo2\\FormsPildorasInformaticas.csproj",
+        "packagesPath": "C:\\Users\\Ignacio Toledo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignacio Toledo\\source\\repos\\DSOO_TP2_Com1A_Grupo2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\romin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ignacio Toledo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
