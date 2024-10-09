@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FormsPildorasInformaticas
+namespace TP2_Grupo2_1A.Datos
 {
     public class Conexion
     {
@@ -14,7 +14,7 @@ namespace FormsPildorasInformaticas
 
         private Conexion()
         {
-            string connectionString = "server=localhost;database=clubdeportivo;uid=root;pwd=;";
+            string connectionString = "server=localhost;database=clubdeportivo;uid=root;pwd=root;";
             connection = new MySqlConnection(connectionString);
         }
 

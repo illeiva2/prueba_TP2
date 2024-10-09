@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FormsPildorasInformaticas.Properties {
+namespace TP2_Grupo2_1A.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace FormsPildorasInformaticas.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FormsPildorasInformaticas.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TP2_Grupo2_1A.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -57,6 +57,16 @@ namespace FormsPildorasInformaticas.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Fondo_form {
+            get {
+                object obj = ResourceManager.GetObject("Fondo form", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

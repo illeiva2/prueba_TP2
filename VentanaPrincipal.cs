@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TP2_Grupo2_1A.Datos;
 
 
 namespace FormsPildorasInformaticas

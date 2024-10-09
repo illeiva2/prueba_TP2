@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|C:\\Users\\Illei\\source\\repos\\prueba_TP2\\inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|C:\\Users\\Illei\\source\\repos\\prueba_TP2\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|C:\\Users\\Illei\\source\\repos\\prueba_TP2\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:inscripcionsocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\tp2_grupo2_1a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:tp2_grupo2_1a.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|C:\\Users\\Illei\\source\\repos\\prueba_TP2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|FormsPildorasInformaticas.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\tp2_grupo2_1a.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:tp2_grupo2_1a.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\inscripcionsocio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:inscripcionsocio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|c:\\users\\illei\\source\\repos\\prueba_tp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68613C19-E291-4144-B16B-D492646DC137}|TP2_Grupo2_1A.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InscripcionSocio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.cs",
+              "RelativeDocumentMoniker": "InscripcionSocio.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "InscripcionSocio.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:24:02.724Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:13:07.319Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InscripcionSocio.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.cs",
+              "RelativeDocumentMoniker": "InscripcionSocio.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.cs*",
+              "RelativeToolTip": "InscripcionSocio.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwE4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:21:33.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Datos\\Conexion.cs*",
+              "RelativeToolTip": "Datos\\Conexion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:20:32.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "VentanaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:21:01.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InscripcionSocio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.cs",
+              "RelativeDocumentMoniker": "InscripcionSocio.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InscripcionSocio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:20:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Login.cs*",
+              "RelativeToolTip": "Login.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAzwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:31:28.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:20:37.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InscripcionSocio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.Designer.cs",
+              "RelativeDocumentMoniker": "InscripcionSocio.Designer.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\InscripcionSocio.Designer.cs*",
+              "RelativeToolTip": "InscripcionSocio.Designer.cs*",
+              "ViewState": "AgIAAKkAAAAAAAAAAADwv7sAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:20:51.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TP2_Grupo2_1A.csproj",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\TP2_Grupo2_1A.csproj",
+              "RelativeDocumentMoniker": "TP2_Grupo2_1A.csproj",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\TP2_Grupo2_1A.csproj",
+              "RelativeToolTip": "TP2_Grupo2_1A.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T22:20:19.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T22:20:09.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TP2_Grupo2_1A",
+              "DocumentMoniker": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\TP2_Grupo2_1A.csproj",
+              "RelativeDocumentMoniker": "TP2_Grupo2_1A.csproj",
+              "ToolTip": "C:\\Users\\Illei\\source\\repos\\prueba_TP2\\TP2_Grupo2_1A.csproj",
+              "RelativeToolTip": "TP2_Grupo2_1A.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T22:18:30.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

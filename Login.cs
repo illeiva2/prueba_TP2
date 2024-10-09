@@ -1,6 +1,7 @@
 using MySql.Data.MySqlClient;
 using System.Data;
 using System.Windows.Forms;
+using TP2_Grupo2_1A.Datos;
 
 namespace FormsPildorasInformaticas
 {
